@@ -1,0 +1,3 @@
+1) Go to the hw11-TyBarbot directory where all the files are
+2) type "make"
+3) ./program0 input.data output.data
